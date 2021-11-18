@@ -1,0 +1,12 @@
+{
+  "name": "ecs-practice",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@sztm.github.com:sztm/ecs-practice.git",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "suzutomo <sztmsk@gmail.com>",
+  "license": "MIT"
+}
